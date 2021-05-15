@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const prithvi = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "Apex", "Swift"],
     askMeAbout: ["web dev", "tech", "app dev", "gaming"],
@@ -79,5 +79,3 @@ OSX                      17 hrs 5 mins       ███████████�
 
 ```
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
