@@ -14,8 +14,8 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "Apex", "SWIFT"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript", "Python", "Java", "Apex", "Swift"],
+    askMeAbout: ["web dev", "tech", "app dev", "gaming"],
     technologies: {
         mobileApp: ["Android App", "IOS", "Hybrid"],
         frontEnd: {
@@ -24,12 +24,12 @@ const anmol = {
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask", "Django"]
+            python: ["flask", "django"]
         },
         cloud: {
             salesforce : {
                 saas : ["sales-cloud", "service-cloud", "community-cloud"]
-                tech : ["LWC", "Apex", "visualforce", "declarative-tools"]
+                tech : ["LWC", "Apex", "Visualforce", "declarative-tools"]
            }
         },
         devOps: ["AWS", "Nginx"],
